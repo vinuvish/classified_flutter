@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "742671607280",
+    "firebase_url": "https://classified-42be7.firebaseio.com",
+    "project_id": "classified-42be7",
+    "storage_bucket": "classified-42be7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:742671607280:android:35f7ff3c7d67c1fb2ca935",
+        "android_client_info": {
+          "package_name": "com.codememory.classified"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "742671607280-kbbk8j3m1gbiuvgvevgjpiasr4tunfja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwEufzhFhbuikA5SJKfUmnWruA-8zg6vo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "742671607280-kbbk8j3m1gbiuvgvevgjpiasr4tunfja.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "742671607280-sen36oqt8jjii6929qhtci4bc94b4fa0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.codememory.classified"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
